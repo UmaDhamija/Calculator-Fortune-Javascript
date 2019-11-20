@@ -1,0 +1,13 @@
+body{
+  padding: 200px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  text-align: center;
+  background-image: url("sunrisesky.jpg");
+  background-size: cover;
+  background-position: fixed;
+  overflow: hidden;
+  color: white;
+  font-size: 40px;
+}
